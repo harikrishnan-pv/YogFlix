@@ -1,39 +1,4 @@
-/* Description: Master CSS file */
 
-/*****************************************
-Table Of Contents:
-- General Styles
-- Navigation
-- Header
-- Introduction
-- Features
-- Details 1
-- Details 2
-- Details Lightbox
-- Details 3
-- Statistics
-- Testimonials
-- Pricing
-- Conclusion
-- Footer
-- Copyright
-- Back To Top Button
-- Media Queries
-******************************************/
-
-/*****************************************
-Colors:
-- Backgrounds - light gray #f1f9fc
-- Buttons, icons - purple #594cda
-- Buttons, icons - red #eb427e
-- Headings text - black #252c38
-- Body text - dark gray #6b747b
-******************************************/
-
-
-/**************************/
-/*     General Styles     */
-/**************************/
 body,
 html {
     width: 100%;
@@ -589,7 +554,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 7rem;
-	background: linear-gradient(rgba(248, 164, 84, 1), rgba(255, 255, 255, 1));
+	background: linear-gradient(rgb(255, 185, 185), rgba(255, 255, 255, 0));
 	text-align: center;
 }
 
@@ -1119,7 +1084,7 @@ input[type='checkbox'] {
 .footer {
 	padding-top: 6rem;
 	padding-bottom: 3rem;
-	background: linear-gradient(rgba(255, 255, 255, 1), rgba(248, 164, 84, 1));
+	background: linear-gradient(rgba(255, 255, 255, 0), rgb(88, 138, 255));
 	text-align: center;
 }
 
