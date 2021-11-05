@@ -38,6 +38,8 @@ body,
 html {
     width: 100%;
 	height: 100%;
+	
+
 }
 
 body, p {
@@ -587,7 +589,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 7rem;
-	background: linear-gradient(rgba(197, 234, 249, 1), rgba(255, 255, 255, 1));
+	background: linear-gradient(rgba(248, 164, 84, 1), rgba(255, 255, 255, 1));
 	text-align: center;
 }
 
@@ -1117,7 +1119,7 @@ input[type='checkbox'] {
 .footer {
 	padding-top: 6rem;
 	padding-bottom: 3rem;
-	background: linear-gradient(rgba(255, 255, 255, 1), rgba(197, 234, 249, 1));
+	background: linear-gradient(rgba(255, 255, 255, 1), rgba(248, 164, 84, 1));
 	text-align: center;
 }
 
@@ -1524,7 +1526,7 @@ a:hover.back-to-top {
 
 	/* General Styles */
 	.h1-large {
-		font-size: 3.125rem;
+		font-size: 6.125rem;
 		line-height: 3.75rem;
 	}
 	/* end of general styles */
@@ -1651,3 +1653,6 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+.yolo{
+	font-size: 6rem ;
+}
